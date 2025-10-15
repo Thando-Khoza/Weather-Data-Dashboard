@@ -1,6 +1,9 @@
 # Weather-Data-Dashboard
 Weather Data Dashboard A Python Jupyter Notebook that analyzes and visualizes sample weather data (temperature, humidity, wind, rainfall, cloud cover) with dynamic CSV loading, summary stats, and clear plots. Ready for API integration or interactive dashboards.
 
+
+**Author:** Thando Khoza
+
  ## Features
 
 - Dynamic creation or loading of sample CSV data
@@ -16,7 +19,7 @@ Install dependencies:
 ```bash
 pip install pandas matplotlib
 
-## How to Run
+ **How to run**
 
 -Open Jupyter Notebook
 
@@ -27,6 +30,12 @@ pip install pandas matplotlib
 ## Future Enhancements
 
 -Connect to real-time Weather API (OpenWeatherMap)
+
+
+
+
+
+
 
 -Interactive dashboards using Plotly or Streamlit
 
